@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gkorpal
 - 👀 I’m interested in arithmetic geometry and the related applications in cryptography.
-- 🌱 I’m currently learning about blockchain technology.
-- 💞️ I’m looking to collaborate on elliptic curve cryptography projects.
+- 🌱 I’m currently learning about isogeny-based cryptography.
+- 💞️ I’m looking to collaborate on cryptography projects.
 - 📫 For contact details, please visit [my website](https://gkorpal.github.io/).
 
 <!---
