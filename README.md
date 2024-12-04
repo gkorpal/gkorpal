@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gkorpal
-- 👀 I’m interested in the applications of arithmetic geometry to cryptography
-- 🌱 I’m currently learning about isogeny-based cryptography.
-- 💞️ I’m looking to collaborate on cryptography projects.
-- 📫 For contact details, please visit [my website](https://gkorpal.github.io/).
+- 👋 Hi, I'm Gaurish!
+- 👀 I have research experience at the intersection of computational number theory and cryptography.
+- 🌱 I am currently in the job market seeking opportunities to apply my analytical mindset and problem-solving abilities.
+- 💞️ I also offer directed reading projects in number theory.
+- 📫 For more details, please visit [my website](https://gkorpal.github.io/).
 
 <!---
 gkorpal/gkorpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
