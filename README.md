@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Gaurish!
-- 👀 I have research experience at the intersection of computational number theory and cryptography.
+- 📜 My research focuses on advancing cryptographic systems through computational number theory.
+- 💻 I enjoy programming in old-school languages like C🐧 and Python🐍 and new-age languages like Rust🦀 and Julia🔬.
 - 🌱 I am currently in the job market seeking opportunities to apply my analytical mindset and problem-solving abilities.
-- 💞️ I also offer directed reading projects in number theory.
 - 📫 For more details, please visit [my website](https://gkorpal.github.io/).
 
 <!---
